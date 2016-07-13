@@ -2,5 +2,9 @@
 # Sigma.Data
 Contains all scripts for create a Sigma Database
 
-sudo nano /etc/mongod.conf
-bindIP = [127.0.0.1,192.168.0.50]
+## Technologies
+Our database was implemented with MongoDB
+
+### Useful snippet code
+    sudo nano /etc/mongod.conf
+    bindIP = [127.0.0.1,192.168.0.50]
