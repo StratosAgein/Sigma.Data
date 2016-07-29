@@ -1,4 +1,4 @@
-// DB: 127.0.0.1/SigmaDB
+// > mongo 127.0.0.1/SigmaDB SeedUsers.js
 //
 // Status:
 //      0 : Disabled
