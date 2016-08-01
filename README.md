@@ -9,13 +9,13 @@ Our database was implemented with MongoDB
     sudo nano /etc/mongod.conf
     bindIP = [127.0.0.1,192.168.0.50]
 
-## Installing on Windows
-Preferably develop on Windows 10, for use all scripts you need install MongoDB from https://www.mongodb.com/download-center and select your Mongo Version. But you can install from InstallMongoDB script into ToolsForWindows folder. Only you need execute like administrator.
+## Unattended installation on Windows 
+Preferably develop on Windows 10, for use all scripts you need install MongoDB from https://www.mongodb.com/download-center and select your Mongo Version. But if you're beginner on MongoDB you can use our tool for Windows InstallMongoDB.cmd script into ToolsForWindows folder. Only you need execute like administrator and now, every Windows Startup you have MongoDB Server running
 
 ![Execute like admin](http://i.imgur.com/CoEDYkL.png)
 
 ## Execute MongoDB Server on Windows
-Go to ToolsForWindows folder, and now execute MongoServer.cmd script.
+If you install manually MongoDB go to ToolsForWindows folder, and now execute MongoServer.cmd script.
 
 ## Run MongoDB commands on Windows
-Go to ToolsForWindows folder, and now execute RunCommands.cmd script.
+If you install manually MongoDB go to ToolsForWindows folder, and now execute RunCommands.cmd script.
