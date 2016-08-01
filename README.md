@@ -18,4 +18,4 @@ Preferably develop on Windows 10, for use all scripts you need install MongoDB f
 If you install manually MongoDB go to ToolsForWindows folder, and now execute MongoServer.cmd script.
 
 ## Run MongoDB commands on Windows
-If you install manually MongoDB go to ToolsForWindows folder, and now execute RunCommands.cmd script.
+If you install manually MongoDB go to ToolsForWindows folder, and now execute RunMongoCommands.cmd script.
