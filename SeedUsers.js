@@ -27,5 +27,6 @@ db.User.insert({
                         IsPrimary: false
                     }
     ],
-    age: 23
+    age: 23,
+    CompanyId:      ObjectId("51e0373c6f35bd826f47e9a3")
 })
