@@ -11,5 +11,6 @@ db.Company.insert({
     "_id" :         ObjectId("51e0373c6f35bd826f47e9a3"),
     ShortName:      'Positiva',
     LongName:       'Positiva compañía de seguros',
-    OwnerClient:    null,
+    OwnerClient:    "51e0373c6f35bd826f47e9a1",
+    CompanyStatus:  1
 })
